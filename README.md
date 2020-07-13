@@ -4,5 +4,5 @@
 
 
 👋🏼 Hi, I'm Vince. I'm a software engineer living in California.<br>
-:zap: <a href="https://vincentxiao.com">vincentxiao.com</a>
+⚡️ <a href="https://vincentxiao.com">vincentxiao.com</a>
 
