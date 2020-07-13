@@ -3,6 +3,5 @@
 </p>
 
 
-👋🏼 Hi, I'm Vince. I'm a software engineer living in California.<br>
-⚡️ <a href="https://vincentxiao.com">vincentxiao.com</a>
+👋🏼 Hi, I'm Vince. I'm a software engineer living in California. ⚡️ <a href="https://vincentxiao.com">vincentxiao.com</a>
 
